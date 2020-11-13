@@ -1927,7 +1927,7 @@ section .da-scroller::-webkit-scrollbar-thumb {border: none !important;}
 }
     /* */
     html[style] head ~ body[style] > #app-mount.appMount-3lHmkl .wordmark-2iDDfm::after {
-        content: "_ϟϟϟChamp_xDϟϟϟ_";
+        content: "_ϟϟϟChampϟϟϟ_";
         display: block !important;
         position: absolute;
         left: 9px;
